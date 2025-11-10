@@ -1,7 +1,7 @@
 {
   "latest_news": {
     "title": "Test title",
-    "description": "Test description",
+    "description": "-Test description\n-1235",
     "time": "6 ноября 2025"
   }
 }
